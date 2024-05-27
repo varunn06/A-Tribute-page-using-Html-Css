@@ -1,0 +1,34 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.text-allign-c{
+    text-align: center;
+}
+.bg-black{
+    background-color: black;
+    color:white;
+}
+.slider{
+    background-image: url("https://cdn.profoto.com/cdn/053149e/contentassets/d39349344d004f9b8963df1551f24bf4/profoto-albert-watson-steve-jobs-pinned-image-original.jpg?width=1280&quality=75&format=jpg");
+    background-blend-mode:color;
+    background-color: #00000078;
+}
+.bg-prop{
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    display: block;
+}
+.padding-prop{
+    padding: 243px;
+}
+.blockquote{
+    font-size: 33px;
+    color: white;
+    text-align: center;
+}
+.steve{
+    padding: 60px;
+}
